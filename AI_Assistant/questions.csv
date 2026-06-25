@@ -1,0 +1,21 @@
+id,question,expected_answer
+1,AI là viết tắt của từ gì?,Artificial Intelligence
+2,Thuật toán tìm kiếm A* có ưu điểm gì so với thuật toán tìm kiếm theo chiều rộng?,A* sử dụng heuristic để tối ưu đường đi, tiết kiệm thời gian hơn BFS trong không gian trạng thái lớn.
+3,Perceptron là gì?,Perceptron là một mô hình mạng nơ-ron đơn giản dùng để phân loại nhị phân.
+4,Học có giám sát là gì?,Học có giám sát là loại học trong đó dữ liệu huấn luyện có nhãn đầu ra, mô hình học cách ánh xạ từ đầu vào đến đầu ra.
+5,Học không giám sát là gì?,Học không giám sát không có nhãn, mô hình tự tìm cấu trúc ẩn trong dữ liệu (ví dụ: phân cụm).
+6,Overfitting là gì?,Overfitting xảy ra khi mô hình học quá khớp với dữ liệu huấn luyện, dẫn đến hiệu suất kém trên dữ liệu mới.
+7,Regularization dùng để làm gì?,Regularization giúp giảm overfitting bằng cách thêm penalty vào hàm mất mát.
+8,CNN thường dùng trong lĩnh vực nào?,CNN thường dùng trong xử lý ảnh, thị giác máy tính.
+9,RNN phù hợp cho loại dữ liệu nào?,RNN phù hợp cho dữ liệu tuần tự như văn bản, thời gian, âm thanh.
+10,Transfer learning là gì?,Transfer learning là kỹ thuật tận dụng kiến thức từ một mô hình đã huấn luyện trên một tác vụ để áp dụng cho tác vụ khác.
+11,Gradient descent dùng để làm gì?,Gradient descent là thuật toán tối ưu dùng để cập nhật trọng số của mô hình nhằm giảm hàm mất mát.
+12,Sự khác nhau giữa classification và regression?,Classification dự đoán nhãn rời rạc, regression dự đoán giá trị liên tục.
+13,Confusion matrix là gì?,Confusion matrix là bảng đánh giá hiệu suất phân loại, thể hiện số lượng dự đoán đúng/sai cho từng lớp.
+14,Precision và recall là gì?,Precision là tỷ lệ dương tính giả trong số dự đoán dương, recall là tỷ lệ dương tính thật trong số dương thật.
+15,Thuật toán SVM hoạt động như thế nào?,SVM tìm siêu phẳng phân cách tối ưu giữa các lớp, có thể sử dụng kernel để xử lý phi tuyến.
+16,Tại sao cần phải chuẩn hóa dữ liệu?,Chuẩn hóa giúp các đặc trưng có cùng tỷ lệ, tránh ảnh hưởng trội của các đặc trưng có giá trị lớn.
+17,Độ phức tạp của thuật toán KNN là gì?,KNN có độ phức tạp O(n*d) cho dự đoán (với n là số mẫu, d là số chiều) nếu không dùng cấu trúc dữ liệu.
+18,Ensemble learning là gì?,Ensemble learning kết hợp nhiều mô hình để cải thiện độ chính xác và giảm overfitting.
+19,Giải thích khái niệm "đường cong học tập" (learning curve)?,Đường cong học tập thể hiện mối quan hệ giữa kích thước tập huấn luyện và hiệu suất mô hình, giúp phát hiện overfitting/underfitting.
+20,Ứng dụng của NLP trong đời sống?,NLP ứng dụng trong chatbot, dịch máy, phân tích cảm xúc, tóm tắt văn bản.
